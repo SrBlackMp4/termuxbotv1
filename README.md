@@ -18,7 +18,7 @@
 ```json
 {
 	"prefix": "/",
-	"NomeDono": "SrBlack",
-	"NumeroDono": "55699xxxxx"
+	"ownerNumber": "55699xxxxx",
+	"apiKey": "YouApiKey"
 }
 ```
