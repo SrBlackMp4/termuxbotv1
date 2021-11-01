@@ -1,3 +1,8 @@
+<p align="center">
+<a href="https://ibb.co/G7PZnyz"><img src="https://i.ibb.co/mqjq4Fb/IMG-20211031-WA0066.jpg" alt="SrBlackMp4" border="0"></a>
+</p>
+<p align="center">
+<a href="#"><img title="Venom-Bot" src="https://img.shields.io/badge/Termux Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/SrBlackMp4"><img title="Criador" src="https://img.shields.io/badge/Criador-SrBlack-red.svg?style=for-the-badge&logo=github"></a>
